@@ -8,6 +8,8 @@ Forward Deployment Engineering is the art of shipping complex software where it 
 
 FDEs are the "Technical Special Ops" who bridge the gap (The Delta) between a core product and a client’s messy, real-world reality.
 
+> 🎓 **Want to work through this instead of just reading it?** The **[FDE Field Course](course/README.md)** turns this roadmap into 12 modules, each with concepts, hands-on labs, out-loud articulation drills, and "drive it at work" assignments that build a full deployment package for a real initiative.
+
 ---
 
 ## 📑 Table of Contents
